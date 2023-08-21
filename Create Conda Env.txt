@@ -1,0 +1,7 @@
+step 1: create conda environment
+
+conda create -p venv python==3.8 -y
+
+step 2: To activate virtual environment
+
+conda activate venv/
